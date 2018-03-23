@@ -1,0 +1,12 @@
+10
+Add normal P176
+Group 1 P176 G1
+Set G1 45 19 164
+Group 1 P176 G49
+Set G1 125 27 112
+Set G49 148 188 85
+Add reverse P442
+Add single P124
+Add single P101
+Set P442 91 0 125
+Gray

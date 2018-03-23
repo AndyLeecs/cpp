@@ -1,0 +1,31 @@
+﻿生成启动时间为 2018/1/11 23:00:36。
+     1>项目“D:\c++\c++上机解决方案\c++期末复习\c++期末复习\c++期末复习.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\c\VC\bin\CL.exe /c /ZI /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt string.cpp
+         用于 x86 的 Microsoft (R) C/C++ 优化编译器 18.00.21005.1 版版权所有(C) Microsoft Corporation。  保留所有权利。
+         
+         cl /c /ZI /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt string.cpp
+         
+         string.cpp
+     1>d:\c++\c++上机解决方案\c++期末复习\c++期末复习\string.cpp(7): error C2079: “f”使用未定义的 class“std::basic_ifstream<char,std::char_traits<char>>”
+     1>d:\c++\c++上机解决方案\c++期末复习\c++期末复习\string.cpp(7): error C2440: “初始化”: 无法从“const char [7]”转换为“int”
+                 没有使该转换得以执行的上下文
+     1>d:\c++\c++上机解决方案\c++期末复习\c++期末复习\string.cpp(12): error C2065: “n”: 未声明的标识符
+     1>d:\c++\c++上机解决方案\c++期末复习\c++期末复习\string.cpp(13): error C2270: “find”: 非成员函数上不允许修饰符
+     1>d:\c++\c++上机解决方案\c++期末复习\c++期末复习\string.cpp(16): error C2065: “npos”: 未声明的标识符
+     1>d:\c++\c++上机解决方案\c++期末复习\c++期末复习\string.cpp(17): error C2143: 语法错误 : 缺少“;”(在“.”的前面)
+     1>d:\c++\c++上机解决方案\c++期末复习\c++期末复习\string.cpp(17): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>d:\c++\c++上机解决方案\c++期末复习\c++期末复习\string.cpp(18): error C2872: “cin”: 不明确的符号
+                 可能是“d:\c++\c++上机解决方案\c++期末复习\c++期末复习\string.cpp(17) : int cin”
+                 或       “d:\c\vc\include\iostream(26) : std::istream std::cin”
+     1>d:\c++\c++上机解决方案\c++期末复习\c++期末复习\string.cpp(18): error C2065: “str”: 未声明的标识符
+     1>d:\c++\c++上机解决方案\c++期末复习\c++期末复习\string.cpp(18): error C4430: 缺少类型说明符 - 假定为 int。注意:  C++ 不支持默认 int
+     1>d:\c++\c++上机解决方案\c++期末复习\c++期末复习\string.cpp(18): error C2078: 初始值设定项太多
+     1>d:\c++\c++上机解决方案\c++期末复习\c++期末复习\string.cpp(19): error C2065: “s”: 未声明的标识符
+     1>d:\c++\c++上机解决方案\c++期末复习\c++期末复习\string.cpp(19): error C2228: “.c_str”的左边必须有类/结构/联合
+                 类型是“unknown-type”
+     1>已完成生成项目“D:\c++\c++上机解决方案\c++期末复习\c++期末复习\c++期末复习.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.46

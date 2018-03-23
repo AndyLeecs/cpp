@@ -1,0 +1,24 @@
+﻿生成启动时间为 2017/12/19 8:05:02。
+     1>项目“D:\c++\c++上机解决方案\Q118\Q118\Q118.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         D:\c\VC\bin\CL.exe /c /ZI /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         用于 x86 的 Microsoft (R) C/C++ 优化编译器 18.00.21005.1 版版权所有(C) Microsoft Corporation。  保留所有权利。
+         
+         cl /c /ZI /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt "源.cpp"
+         
+         源.cpp
+     1>d:\c++\c++上机解决方案\q118\q118\源.cpp(81): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\c++\c++上机解决方案\q118\q118\源.cpp(92): warning C4101: “f”: 未引用的局部变量
+     1>d:\c++\c++上机解决方案\q118\q118\源.cpp(76): warning C4715: “heroFactory::createHero”: 不是所有的控件路径都返回值
+       Link:
+         D:\c\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\c++\c++上机解决方案\Q118\Debug\Q118.exe" /INCREMENTAL kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\c++\c++上机解决方案\Q118\Debug\Q118.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\c++\c++上机解决方案\Q118\Debug\Q118.lib" /MACHINE:X86 "Debug\源.obj"
+         Microsoft (R) Incremental Linker Version 12.00.21005.1
+         Copyright (C) Microsoft Corporation.  All rights reserved.
+         
+         "/OUT:D:\c++\c++上机解决方案\Q118\Debug\Q118.exe" /INCREMENTAL kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST "/MANIFESTUAC:level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG "/PDB:D:\c++\c++上机解决方案\Q118\Debug\Q118.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT "/IMPLIB:D:\c++\c++上机解决方案\Q118\Debug\Q118.lib" /MACHINE:X86 "Debug\源.obj" 
+         Q118.vcxproj -> D:\c++\c++上机解决方案\Q118\Debug\Q118.exe
+     1>已完成生成项目“D:\c++\c++上机解决方案\Q118\Q118\Q118.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.24
